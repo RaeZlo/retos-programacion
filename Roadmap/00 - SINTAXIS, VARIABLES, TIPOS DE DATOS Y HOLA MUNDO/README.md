@@ -1,5 +1,5 @@
 ¿Preparad@ para aprender o repasar el lenguaje de programación que tú quieras?
-- Recuerda que todas las instrucciones de participación están en el
+Recuerda que todas las instrucciones de participación están en el
 repositorio de GitHub.
 
 Lo primero... ¿Ya has elegido un lenguaje?
